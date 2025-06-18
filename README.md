@@ -1,0 +1,1 @@
+simple code to see if breakpoints can be set in a metal shader (unfortunately i couldn't). `simple_add.metal` is the metal shader and its host is `main.m`. i used xcode to enable breakpoints. Although chatgpt says to use `metal-dis` as cli to inspect the assembly, no such tools exist.
